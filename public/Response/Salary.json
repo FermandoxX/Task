@@ -1,0 +1,59 @@
+[
+  {
+    "id": "1",
+    "name": "Eduart Torba",
+    "paymentForHour": {
+      "inNormalDaysHours": { "2024-01": 16, "2024-05": 8 },
+      "inNormalDaysPayment": { "2024-01": 4000, "2024-05": 2000 },
+      "outNormalDaysHours": { "2024-01": 4, "2024-05": 0 },
+      "outNormalDaysPayment": { "2024-01": 1250, "2024-05": 0 },
+      "inWeekendDaysHours": { "2024-01": 10, "2024-05": 15 },
+      "inWeekendDaysPayment": { "2024-01": 3125, "2024-05": 4687.5 },
+      "outWeekendDaysHours": { "2024-01": 0, "2024-05": 2 },
+      "outWeekendDaysPayment": { "2024-01": 0, "2024-05": 750 },
+      "inOffDayHours": { "2024-01": 16, "2024-05": 8 },
+      "inOffDayPayment": { "2024-01": 6000, "2024-05": 3000 },
+      "outOffDayHours": { "2024-01": 3, "2024-05": 4 },
+      "outOffDayPayment": { "2024-01": 1500, "2024-05": 2000 }
+    },
+    "monthSalary": { "2024-01": 15875, "2024-05": 12437.5 }
+  },
+  {
+    "id": "2",
+    "name": "Test User 2",
+    "paymentForHour": {
+      "inNormalDaysHours": { "2024-01": 24 },
+      "inNormalDaysPayment": { "2024-01": 9000 },
+      "outNormalDaysHours": { "2024-01": 2 },
+      "outNormalDaysPayment": { "2024-01": 937.5 },
+      "inWeekendDaysHours": [],
+      "inWeekendDaysPayment": [],
+      "outWeekendDaysHours": [],
+      "outWeekendDaysPayment": [],
+      "inOffDayHours": { "2024-01": 8 },
+      "inOffDayPayment": { "2024-01": 4500 },
+      "outOffDayHours": { "2024-01": 2 },
+      "outOffDayPayment": { "2024-01": 1500 }
+    },
+    "monthSalary": { "2024-01": 15937.5 }
+  },
+  {
+    "id": "3",
+    "name": "Test User 3",
+    "paymentForHour": {
+      "inNormalDaysHours": { "2024-01": 21 },
+      "inNormalDaysPayment": { "2024-01": 7875 },
+      "outNormalDaysHours": { "2024-01": 3 },
+      "outNormalDaysPayment": { "2024-01": 1406.25 },
+      "inWeekendDaysHours": [],
+      "inWeekendDaysPayment": [],
+      "outWeekendDaysHours": [],
+      "outWeekendDaysPayment": [],
+      "inOffDayHours": { "2024-01": 5 },
+      "inOffDayPayment": { "2024-01": 2812.5 },
+      "outOffDayHours": { "2024-01": 0 },
+      "outOffDayPayment": { "2024-01": 0 }
+    },
+    "monthSalary": { "2024-01": 12093.75 }
+  }
+]
